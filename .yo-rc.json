@@ -1,0 +1,10 @@
+{
+  "generator-go-lang": {
+    "promptValues": {
+      "app": "threedle",
+      "vendor": true,
+      "dep": false,
+      "cobra": false
+    }
+  }
+}
